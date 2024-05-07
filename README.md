@@ -4,11 +4,11 @@
 
 **[Dataset used](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)**
 
-**SQL Analysis-code**
+**[SQL Analysis-code](https://github.com/Weefred/Retail_Sales_Analysis/blob/main/Retail_Sales_Analysis.sql)**
 
-**Tableau Dashboard**- click to view
+**Tableau Dashboard- [click to view](https://github.com/Weefred/Retail_Sales_Analysis/blob/main/Retail_Sales_Analysis_Dashboard.png)**
 
-**Tableau Dashboard**- [click to interact](https://public.tableau.com/app/profile/weefred.momodu/viz/Customershoppingdata/Dashboard1?publish=yes)
+**Tableau Dashboard- [click to interact](https://public.tableau.com/app/profile/weefred.momodu/viz/Customershoppingdata/Dashboard1?publish=yes)**
 
 ## About
 
@@ -39,7 +39,7 @@ e.	**revenue**: This column was created from the price and quantity columns.
         insights.
 
 ## Business Questions and Answers
-  Click to view
+  **[Click to view](https://github.com/Weefred/Retail_Sales_Analysis/blob/main/Business_Questions_and_Answers.pdf)**
   
 ## Insights
 
