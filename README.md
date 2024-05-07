@@ -1,30 +1,24 @@
-# Retail_Sales_Analysis
+<div align='center'> <h1>  Retail Sales Analysis </div>
 
 #### Tools used: Excel, MS SQL Server, Tableau
 
-**Dataset used**
+**[Dataset used](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)**
 
 **SQL Analysis-code**
 
 **Tableau Dashboard**- click to view
 
-**Tableau Dashboard**- click to interact
+**Tableau Dashboard**- [click to interact](https://public.tableau.com/app/profile/weefred.momodu/viz/Customershoppingdata/Dashboard1?publish=yes)
 
-### About
+## About
 
-This project involves analyzing a sales dataset to uncover insights into customer behavior, sales trends, and purchasing patterns within a retail environment. The project aims to extract actionable insights that can be leveraged to optimize marketing strategies, enhance inventory management and business decision-making, hence improving overall business performance.
+This project involves analyzing a sales dataset to uncover insights into customer behavior, sales trends, and purchasing patterns within a retail environment. 
 
-### Business Problem
+## About Data 
 
-Businesses are presented with an opportunity to optimize their operations, marketing strategies, and product offerings to better cater to the diverse consumer base in Istanbul. However, they face the challenge of effectively leveraging this dataset to drive actionable insights and make informed decisions.
+The dataset was obtained from the Customer Shopping Retail Sales Data. This dataset contains shopping information from 10 different shopping malls in Istanbul between 2021 and 2023. The data contains 10 columns and 99,458 rows.
 
-### Solution
-
-- I will utilize SQL by leveraging its querying capabilities to extract relevant data from the dataset, filtering by various criteria such as time periods, customer demographics, product categories and shopping mall locations.
-  
-- Then, I will use Power BI to visualize the data, generating insightful charts and dashboards to uncover shopping trends and patterns.
-
-  ### Approach Used
+## Approach Used
 
 1.	**Data Wrangling**: This process involved checking for duplicate values, correcting errors, inconsistencies and using the right data types.
    
@@ -44,38 +38,10 @@ e.	**revenue**: This column was created from the price and quantity columns.
 3.	Exploratory Data Analysis (EDA): Exploratory data analysis was done to answer the vital business questions to identify relationships between variables and extract meaningful 
         insights.
 
-
-  Business Questions and Answers
+## Business Questions and Answers
+  Click to view
   
-1.	Revenue by shopping mall
-
-2.	Total quantity sold in each shopping mall
-
-3.	Busiest shopping days
-
-4.	Average price per product category
- 	 	         
-5.	Average order quantity for each product category
-
-6.	Revenue by product category
-
-7.	Gender distribution
-    
-9.	Most common product category by gender
-
-10.	Average purchase amount by gender
-                   
-11.	Age group distribution
-
-12.	Average purchase amount by age group
-
-13.	Most common payment method
- 
-### About Data 
-
-The dataset was obtained from the Customer Shopping Retail Sales Data. This dataset contains shopping information from 10 different shopping malls in Istanbul between 2021 and 2023. The data contains 10 columns and 99,458 rows.
-
-### Insights
+## Insights
 
 1. The older age groups (55-69) have the highest representation for both genders, followed by progressively younger age groups. 
 
